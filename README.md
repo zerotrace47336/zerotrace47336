@@ -7,6 +7,9 @@ Cyber Security Learner | Green Hat Hacker 🟢  <br><br>🌱 Linux • Networkin
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  
 </div>
 
 # 💻 Tech Stack:
